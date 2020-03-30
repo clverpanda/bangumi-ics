@@ -5,20 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:41324107-fada-4963-81f6-5a056f83ffa5
+UID:fa190ec2-9ecc-4a77-b622-89ff4ddf3b79
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
-DTSTART:20200404T083000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
-	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
-	rwyx.html
-URL:https://www.bilibili.com/bangumi/media/md28222734/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:88a3f25e-d4ec-484c-bb3f-0098822a78e5
-SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200411T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -27,9 +16,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:040ddbd4-f347-4a72-856c-f0fb9d1181a3
+UID:775365bf-ebd9-40ac-a540-faaf7bf26b95
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200418T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -38,9 +27,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7ce02df7-f5e8-457f-9117-d0ac515adb5b
+UID:09a2da69-4243-4506-9159-0a04161daef4
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200425T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -49,9 +38,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:90c01b3a-db1c-42ea-8dfa-6d2b91560b15
+UID:0768aac6-b88b-4436-94c3-19d659e35cd0
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200502T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -60,9 +49,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:65c8a2e4-b28a-4627-8839-3c16181b7bc1
+UID:91d893bd-90ef-4458-a742-b2e5bb43974d
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200509T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -71,9 +60,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6a8963d7-1d90-4e0a-b0d5-80c1f6e54348
+UID:6c733707-129a-4746-93c7-6dd8b95d587b
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200516T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -82,9 +71,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:29c4dd15-32e9-4ce9-af4e-afdb1add44c9
+UID:01fd8fab-c5a3-4e16-af98-09e271ca89b0
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200523T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -93,9 +82,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:567095da-5236-40c9-9293-de7bf32b0d03
+UID:82714263-8da3-42f2-b41d-79396df92562
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200530T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -104,9 +93,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b20ddc00-0031-40ee-91c8-d5b327a3147f
+UID:0090d8af-56eb-45c7-b6c9-6e5513f8046d
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200606T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -115,9 +104,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:543be093-95ed-469b-9104-3e1251c006cf
+UID:e6f5cdcc-9844-4343-b5d7-47965dffb3ab
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200613T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -126,9 +115,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:18991835-593d-433f-88a5-fb6d70a42259
+UID:5b96e826-ec63-4d0c-bb5e-4a13a9cacb67
 SUMMARY:上季旧番：《我的英雄学院 第四季》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200620T083000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
 	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
@@ -137,19 +126,20 @@ URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4e804a28-234b-4392-8e82-7d254f9e436c
-SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
-DTSTART:20200404T143000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
-	co：https://ch.nicovideo.jp/ep7-tv
-URL:https://www.bilibili.com/bangumi/media/md28222061/
+UID:c81d26bd-bc1e-4e9c-a852-e9c85f35f962
+SUMMARY:上季旧番：《我的英雄学院 第四季》
+DTSTAMP:20200330T100300Z
+DTSTART:20200627T083000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222734/\nAcFun：
+	https://www.acfun.cn/bangumi/aa6000424\n爱奇艺：https://www.iqiyi.com/a_19rri0
+	rwyx.html
+URL:https://www.bilibili.com/bangumi/media/md28222734/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:31187bb9-e8c4-4e07-8149-0e46f2f053e2
+UID:67090287-9f0f-488b-8512-18b5b382d392
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200411T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -157,9 +147,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:db8c362b-967d-44a5-9a50-1b62b111f6c4
+UID:bb026f5a-cc3d-4d58-b3d2-66069500177f
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200418T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -167,9 +157,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ba83d5f7-f789-43e4-96b1-7851640ea133
+UID:fadd6e9a-c3c6-41c7-b21e-ee03317e026a
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200425T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -177,9 +167,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:062b0b29-215c-4caa-816b-e4ec153daf59
+UID:15b74b60-9184-4d36-99f6-8df7b7a6efc1
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200502T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -187,9 +177,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:223bee9f-715f-4273-9c80-1f28dafa633d
+UID:8a218049-bc50-49b3-be9f-e61f3a188abe
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200509T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -197,9 +187,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f2ae7192-55d7-4cc5-9863-a26432d06ab3
+UID:3952ea08-467a-4be1-a55c-40593032017e
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200516T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -207,9 +197,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9dfccf2d-bc54-4d99-91cb-ea8dc4c7e70d
+UID:4b9c6979-8259-4cd3-8637-c5b04545605c
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200523T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -217,9 +207,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4b16ecbd-6ff7-40a1-b8fa-9c0969f1e89e
+UID:2db6b868-8c73-439e-9124-0e16624dda43
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200530T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -227,9 +217,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:72e73fc4-a735-4cca-b5b1-1fcc3636b8d1
+UID:cf3f0e9f-b683-44e9-9c63-57863d51cc05
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200606T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -237,9 +227,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:a7401c77-355a-47e0-9f6e-a97ebecb54bb
+UID:dde889e7-fba8-4165-94e3-dc5b1616d6ec
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200613T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -247,9 +237,9 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d2e4184d-dad1-4059-ada6-4014754bc200
+UID:ed9c7387-0778-4370-badd-53380ce8aaf5
 SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200620T143000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
 	co：https://ch.nicovideo.jp/ep7-tv
@@ -257,49 +247,19 @@ URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6249311c-6102-44cc-b387-f2b0744caf5d
-SUMMARY:本季新番：《恋爱小行星》
-DTSTAMP:20200323T100300Z
-DTSTART:20200327T113000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/koiastv\n哔哩哔哩：https://www.bili
-	bili.com/bangumi/media/md28224128/
-URL:https://ch.nicovideo.jp/koiastv
+UID:9a0d1fcf-be13-4bda-976d-08fbdd306770
+SUMMARY:上季旧番：《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》
+DTSTAMP:20200330T100300Z
+DTSTART:20200627T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28222061/\nNiconi
+	co：https://ch.nicovideo.jp/ep7-tv
+URL:https://www.bilibili.com/bangumi/media/md28222061/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3bdbf747-48f8-4edc-a31b-0fccd388e42b
-SUMMARY:本季新番：《达尔文游戏》
-DTSTAMP:20200323T100300Z
-DTSTART:20200327T150000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/darwins-game\nAcFun：https://ww
-	w.acfun.cn/bangumi/aa6000896
-URL:https://ch.nicovideo.jp/darwins-game
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:4b9b1c51-db0f-4f69-963d-44b1999ea516
-SUMMARY:本季新番：《魔法纪录 魔法少女小圆外传》
-DTSTAMP:20200323T100300Z
-DTSTART:20200328T150000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/magireco\n哔哩哔哩：https://www.bil
-	ibili.com/bangumi/media/md28223817/
-URL:https://ch.nicovideo.jp/magireco
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:9a60951a-a8cf-4d62-9c8e-0dd281a70d7e
+UID:35015184-466c-472e-81ce-2df805481808
 SUMMARY:本季新番：《室内露营△》
-DTSTAMP:20200323T100300Z
-DTSTART:20200323T115500Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/heyacamp\nAcFun：https://www.ac
-	fun.cn/bangumi/aa6000901
-URL:https://ch.nicovideo.jp/heyacamp
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:6d4f6fc0-4b78-4109-8229-f8ac08a83c4f
-SUMMARY:本季新番：《室内露营△》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200330T115500Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/heyacamp\nAcFun：https://www.ac
 	fun.cn/bangumi/aa6000901
@@ -307,37 +267,18 @@ URL:https://ch.nicovideo.jp/heyacamp
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:783495ac-bbd4-4411-9e34-bde3233322ee
+UID:5bef4c61-9581-4bed-82a8-e53c7db3c39e
 SUMMARY:本季新番：《思维覆写》
-DTSTAMP:20200323T100300Z
-DTSTART:20200323T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224087/
-URL:https://www.bilibili.com/bangumi/media/md28224087/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:53ad5ac3-a8c6-4429-83f7-1cc2baa3bcd9
-SUMMARY:本季新番：《思维覆写》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200330T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224087/
 URL:https://www.bilibili.com/bangumi/media/md28224087/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7fefc784-04a4-4a4e-b70a-9c6179ea14f3
+UID:f3f22b2d-8581-4cfa-8fe7-862aa26e9a35
 SUMMARY:本季新番：《因为太怕痛就全点防御力了》
-DTSTAMP:20200323T100300Z
-DTSTART:20200325T130000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/bofuri\n哔哩哔哩：https://www.bilib
-	ili.com/bangumi/media/md28224137/
-URL:https://ch.nicovideo.jp/bofuri
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:75f03edc-6db4-4e0d-9d14-b2e46cc1cde9
-SUMMARY:本季新番：《因为太怕痛就全点防御力了》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200401T130000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/bofuri\n哔哩哔哩：https://www.bilib
 	ili.com/bangumi/media/md28224137/
@@ -345,73 +286,36 @@ URL:https://ch.nicovideo.jp/bofuri
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d6ce1990-51a5-4090-99f8-0fc290b1492d
+UID:4b9eeaa4-3026-48a1-a8dc-36d8b9ede4b4
 SUMMARY:本季新番：《NEKOPARA》
-DTSTAMP:20200323T100300Z
-DTSTART:20200326T120000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/nekopara-anime
-URL:https://ch.nicovideo.jp/nekopara-anime
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:677d63d6-376e-465e-8fc3-618be3411d56
-SUMMARY:本季新番：《NEKOPARA》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200402T120000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/nekopara-anime
 URL:https://ch.nicovideo.jp/nekopara-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ad1670d0-26b2-4227-8454-0493bdf1ace0
+UID:1cbb41b1-d2bf-4602-8b3a-d3d802dddea1
 SUMMARY:本季新番：《科学的超电磁炮T》
-DTSTAMP:20200323T100300Z
-DTSTART:20200327T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:9cd0c4ea-cfa9-42e6-b5da-c0cb786f9eba
-SUMMARY:本季新番：《科学的超电磁炮T》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200403T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/
 URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:92ff6acd-4600-4088-aa64-bbbf89a946b9
+UID:a57aaa79-174d-485e-8542-ac1da7f14419
 SUMMARY:本季新番：《异种族风俗娘评鉴指南》
-DTSTAMP:20200323T100300Z
-DTSTART:20200328T140000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/isyuzoku
-URL:https://ch.nicovideo.jp/isyuzoku
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:ed2b1a49-3dbf-49e5-8ce0-d3e84f792b0d
-SUMMARY:本季新番：《异种族风俗娘评鉴指南》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200404T140000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isyuzoku
 URL:https://ch.nicovideo.jp/isyuzoku
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:57c56e62-f4d6-4d93-a27c-dd75daf3d8b8
+UID:77011625-6525-43a7-83c5-10140ef53641
 SUMMARY:本季新番：《请在T台上微笑》
-DTSTAMP:20200323T100300Z
-DTSTART:20200327T172500Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/runway-anime\nAcFun：https://ww
-	w.acfun.cn/bangumi/aa6000897
-URL:https://ch.nicovideo.jp/runway-anime
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:eb65199b-0bdd-4a40-8e71-da34b46336e8
-SUMMARY:本季新番：《请在T台上微笑》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200403T172500Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/runway-anime\nAcFun：https://ww
 	w.acfun.cn/bangumi/aa6000897
@@ -419,20 +323,9 @@ URL:https://ch.nicovideo.jp/runway-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:442d15a6-6ee2-44b7-acac-48166d4d130e
+UID:1d1b5663-4e2d-4d23-820e-6ecc5ca262bc
 SUMMARY:本季新番：《虚构推理》
-DTSTAMP:20200323T100300Z
-DTSTART:20200328T163000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/kyokousuiri\n哔哩哔哩：https://www.
-	bilibili.com/bangumi/media/md28224145/\n爱奇艺：https://www.iqiyi.com/a_19rrhz
-	5ush.html
-URL:https://ch.nicovideo.jp/kyokousuiri
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:e6b3b09e-2968-4426-9414-ed17b0cab755
-SUMMARY:本季新番：《虚构推理》
-DTSTAMP:20200323T100300Z
+DTSTAMP:20200330T100300Z
 DTSTART:20200404T163000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/kyokousuiri\n哔哩哔哩：https://www.
 	bilibili.com/bangumi/media/md28224145/\n爱奇艺：https://www.iqiyi.com/a_19rrhz
