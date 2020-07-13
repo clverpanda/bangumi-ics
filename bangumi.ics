@@ -5,19 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:e0bd281a-cd43-4b42-8c2e-0166e3dc32cc
+UID:ac3fde20-3435-41b5-8df1-df57f66c70c5
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
-DTSTART:20200717T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:0be052bb-eb80-457c-b99e-5382a3bd3be9
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200724T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -25,9 +15,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2c1c72dd-1a92-4c85-9fb4-1b5a93907fc3
+UID:53846828-a7e5-4c33-8e51-eda99f12180b
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200731T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -35,9 +25,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:171a5602-37ca-4cf3-86ff-327deb09e254
+UID:9e6ec6ee-ca65-4b4a-bb9a-7f474862c9f2
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200807T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -45,9 +35,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4413f206-c94d-4f20-be85-80f3d4862ad1
+UID:852e8655-ef61-42a3-a38a-16cf95f8e9e4
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200814T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -55,9 +45,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1ade2de7-8292-4f20-9738-c474f31f309c
+UID:90a3fd4c-907c-4836-a5c5-243433e300d9
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200821T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -65,9 +55,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:421ddbf4-7dd2-4d91-acb9-68c36beb005d
+UID:558aa269-4313-44f9-8088-47020f30c508
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200828T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -75,9 +65,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:c324f221-e268-4a9f-abb6-a4facdfbe596
+UID:8c4b9e96-5b78-4855-abc7-a46b3b0a7dbe
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200904T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -85,9 +75,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ecaaa629-5000-4c65-91ee-72387d68eb41
+UID:5266c629-0592-4a7a-808d-bf04dcd957d2
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200911T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -95,9 +85,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d7f92c43-0f6e-4899-a116-a4ba896484c0
+UID:3d05a0fb-6f53-4473-8bfb-ff7516622b04
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200918T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -105,9 +95,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d4b829dc-9ff0-4b59-baf5-68a1ce1c894c
+UID:0ddd5cc3-8fa5-4785-a4eb-cdad349cccd8
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200925T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -115,9 +105,9 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6a80a8dd-84d4-4319-bbb7-23d8d49a88d1
+UID:41be4922-00da-45b0-a49b-3a9c251bfb1e
 SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20201002T130000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
 	co：https://ch.nicovideo.jp/toaru-railgun-t
@@ -125,236 +115,235 @@ URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:32458bb4-99bb-4fbe-bc38-92a81333faa6
-SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
-DTSTART:20200714T153000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
-URL:https://ch.nicovideo.jp/isekai-quartet2
+UID:bb7aebfb-fb0b-42ca-8455-0469fa5c449e
+SUMMARY:上季旧番：《科学的超电磁炮T》
+DTSTAMP:20200713T100617Z
+DTSTART:20201009T130000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
+	co：https://ch.nicovideo.jp/toaru-railgun-t
+URL:https://www.bilibili.com/bangumi/media/md28224095/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bab92a1e-64ed-49de-b254-e335b1a748e2
+UID:64139c0d-ebc1-40b4-a665-1025e7b8a919
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200721T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4a990db3-3145-471d-bae1-d3e5ef2ee8a1
+UID:b690f2ad-c91d-44d9-98f5-ca50e75ea1eb
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200728T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:942e47f6-f5b1-44ed-8a63-bd98e2ab01ac
+UID:f8a49c4e-a5c8-4245-84e1-2842b55d003c
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200804T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ec01581a-152a-40ef-af82-274e0df19779
+UID:6670f583-21ba-4501-9ee2-96676f40b4c5
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200811T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:83a83102-f9eb-4909-9727-7384f63bba7d
+UID:0b6475bf-35f8-4dbd-b533-7328fd15041c
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200818T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1183aea2-ca11-4ebc-9c36-2925d17784be
+UID:2146b0c0-4c07-4894-ac78-ccbb6bec8071
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200825T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1e2bb4cc-d9ad-406c-86fb-ac1b5bb6d13a
+UID:a1d2e6a5-7de8-436c-bcc9-1c26625fcbfc
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200901T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6f69bc00-65b1-4e32-8383-0288bc4cbe85
+UID:9c93da40-c0a4-4eea-9d04-43f68eb7677d
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200908T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d7f52ece-6286-4c75-96f2-69578c130a26
+UID:a736f50e-69e9-478e-b1c6-cb139c36084e
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200915T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9e119e-3f27-471a-b914-f16af6e56684
+UID:d30f8605-082c-49f4-a9a4-b895cf497543
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200922T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:77540744-4872-4b64-862d-77e723e873d5
+UID:a8ae3bb3-8292-454e-b032-32475bf8db0b
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200929T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:52ed2d7d-b782-441e-badd-9f0e4de7c3f3
-SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
-DTSTART:20200717T153000Z
-DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
-URL:https://www.iqiyi.com/a_19rrhwkra1.html
+UID:97f8214d-ab62-491b-b106-ce881ab9a25d
+SUMMARY:上季旧番：《异世界四重奏2》
+DTSTAMP:20200713T100617Z
+DTSTART:20201006T153000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
+URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:62dcf87a-dc5f-4083-9975-111193626e6b
+UID:cff0f9e7-45c4-4e61-9a7e-47e8ff439037
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200724T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7dea2796-95c8-4dad-a31e-7de20cea9817
+UID:c7072106-5672-4786-970e-0952c8e52650
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200731T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2cb02ce9-ca37-4659-ae0d-9502a5e21d28
+UID:eb3ec928-416e-40a1-a0f3-0e7a17248ba5
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200807T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:13211727-0e7a-4d7f-9385-be6209617d51
+UID:5ea60174-dc5a-4f75-9be4-a71c0c681799
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200814T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:e408cccf-e9b1-4e13-9b41-82cb2725d72e
+UID:75ff0916-ff7c-4ec9-8dfd-c3d38a3cc137
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200821T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8bdfe484-a5a6-4778-8ff7-0d4bceb21b22
+UID:aa45db10-2d9e-462b-95ea-52454a23273e
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200828T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9689938f-a566-4325-b7d3-7c77fe023e75
+UID:035f012c-07ee-49a7-88d9-31d6c24770a6
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200904T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:200bfb0c-6bab-452d-a71a-3cc1dcb4c959
+UID:fb9221db-ffb7-4491-a919-f4ffe912e7da
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200911T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4c2efbb4-d370-488c-8f51-d8424f1b821b
+UID:8ff9defa-2eff-4796-8d90-64f6dce5a79e
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200918T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:28ef5776-e9b9-44f1-a9af-2a4bb351eb2f
+UID:a6eb7850-0717-4831-b955-1999ab541695
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200925T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:39b271e5-e374-4a1f-abe5-dcbb40ace411
+UID:95b40b03-7f65-48c2-93e6-3c69e84a1955
 SUMMARY:上季旧番：《食戟之灵 豪之皿》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20201002T153000Z
 DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
 URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4b05dcc8-0796-4006-8862-34af100081d1
-SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
-DTSTART:20200706T163000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
-	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
-	.html\n优酷：https://list.youku.com/show/id_zfafe56cd23b04fcda3e8.html
-URL:https://www.bilibili.com/bangumi/media/md28228434/
+UID:86b7aa6c-7a1b-4ac3-afeb-6c13707f3442
+SUMMARY:上季旧番：《食戟之灵 豪之皿》
+DTSTAMP:20200713T100617Z
+DTSTART:20201009T153000Z
+DESCRIPTION:爱奇艺：https://www.iqiyi.com/a_19rrhwkra1.html
+URL:https://www.iqiyi.com/a_19rrhwkra1.html
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8ab9f72b-50cb-46ca-96fc-027e0be75ac4
+UID:20e84ece-4928-4695-b103-c8a927e32d31
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200713T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -363,9 +352,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d8bf34ef-2fa3-4ed3-807a-8e8578ec5f7f
+UID:2ec88f36-988a-40a6-8d73-5008ceeb0df2
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200720T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -374,9 +363,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:24e9cf5a-31de-4ca0-86a3-00d816629e60
+UID:53975f91-d2c9-46be-8ac8-8e9cf7a99026
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200727T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -385,9 +374,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:33377c26-e85b-42b7-af77-01d1202c65ff
+UID:c6f7f0f7-ce46-4b8b-8e89-7ed0381f4d70
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200803T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -396,9 +385,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:16db2308-0509-43da-9653-8a363457bee4
+UID:c90f0ff6-6f20-4739-825c-dc5659900a4e
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200810T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -407,9 +396,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:a373fc82-ae8e-4ede-a17e-880c979ad55c
+UID:c80e77de-e53e-44ad-a9bd-7c821208961c
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200817T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -418,9 +407,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d0d4a602-e7a4-4fde-9b10-009953117574
+UID:098f3b58-c3c2-49b8-8d1a-aeba19ceedf3
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200824T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -429,9 +418,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5b3ff9f9-46af-4f58-bcee-bd462a529dd1
+UID:e8712ef0-598a-443c-b9e3-77a33f42227e
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200831T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -440,9 +429,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:88412a95-7257-4b9f-9957-5cc6ec2e118f
+UID:7fa958da-af6f-4546-baed-46ecb97fe210
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200907T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -451,9 +440,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:93e14095-6cac-47a5-a2e1-e041a5a2ef44
+UID:64114f77-d2e4-4f88-9e07-1676aa563d06
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200914T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -462,9 +451,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7eecbae4-ee4f-4dba-b72c-124d669befa3
+UID:3524c121-d3b0-4cff-a3b3-049a5ae74bd3
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200921T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -473,9 +462,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:da062ee9-70b1-4f82-9fc6-2481e8e4226b
+UID:74e9a374-1bd7-4505-bcf5-f4f85cd7171c
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200928T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -484,9 +473,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8fabf265-c2df-427a-8268-9d250e8072a0
+UID:9cc9d612-69aa-44b2-b9fe-81c4c025ab11
 SUMMARY:上季旧番：《水果篮子 第二季》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20201005T163000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
 	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
@@ -495,19 +484,20 @@ URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:79573e1f-7651-47e6-95d1-d72bb86be7ee
-SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
-DTSTART:20200717T123000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
-	ch.nicovideo.jp/appareranman
-URL:https://www.acfun.cn/bangumi/aa6001744
+UID:c61bf2ed-7f05-4252-92a0-86554471f2f1
+SUMMARY:上季旧番：《水果篮子 第二季》
+DTSTAMP:20200713T100617Z
+DTSTART:20201012T163000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228434/\nNiconi
+	co：https://ch.nicovideo.jp/fruba_2\n爱奇艺：https://www.iqiyi.com/a_19rrhlhs01
+	.html\n优酷：https://list.youku.com/show/id_zfafe56cd23b04fcda3e8.html
+URL:https://www.bilibili.com/bangumi/media/md28228434/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:60dcdee5-db1e-48a1-8dad-67d0ff1e12fe
+UID:624a3490-a4f1-4e65-a1b7-97e925369154
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200724T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -515,9 +505,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5ff9409c-a29b-402a-96d4-a0e53d1d6bb3
+UID:2bb1015b-795c-4fef-beb0-5da21b9b72bb
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200731T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -525,9 +515,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b1160055-1912-4e2b-81db-2f19097ae62d
+UID:0a3308e2-be42-4585-aee8-c8886c4792ad
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200807T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -535,9 +525,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:80cf5d7f-5de6-4627-9d82-18492f5e17f5
+UID:40aaf8e6-56e8-45fe-b4cf-602b8b3bd074
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200814T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -545,9 +535,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cc15f372-77b8-4a5d-bb48-7b390a1ce5bf
+UID:751b8165-8619-4041-a0ff-f2182f4d16a0
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200821T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -555,9 +545,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d03c5e93-33d7-4ef6-a08b-a192a17223f5
+UID:8bcaedff-289b-41eb-8846-9c66d4c07176
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200828T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -565,9 +555,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:da65f019-b277-48a0-83ec-d947647a5404
+UID:5af7c775-1f7b-4d9f-9f19-ce4b96a3b036
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200904T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -575,9 +565,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ac4f3c1b-52ea-4983-b74d-7177f43a1704
+UID:3e1a8c2a-f64e-4523-8d9a-7d2bb026a37c
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200911T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -585,9 +575,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8cab8ea8-8108-40d8-a4c3-dd35d0277bec
+UID:a3396a6a-7f12-42db-84fe-794f5b477070
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200918T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -595,9 +585,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3a71b7c7-476f-4579-af63-2c1aebe333f1
+UID:18ba2cb9-65ae-4f47-9117-9e6bec66b4ff
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200925T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -605,9 +595,9 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:48e27e0c-c6b9-426c-8b26-30f314981b88
+UID:ccaf4573-a257-49f4-8570-7d652e570b36
 SUMMARY:上季旧番：《天晴烂漫！》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20201002T123000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
 	ch.nicovideo.jp/appareranman
@@ -615,19 +605,19 @@ URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ae7793d5-d344-4d90-b467-eacc828e8e33
-SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
-DTSTART:20200716T161000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
-	ch.nicovideo.jp/fugoukeiji-bul
-URL:https://www.acfun.cn/bangumi/aa6001747
+UID:efd1b59a-b432-4172-ab28-cbccbe15455f
+SUMMARY:上季旧番：《天晴烂漫！》
+DTSTAMP:20200713T100617Z
+DTSTART:20201009T123000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001744\nNiconico：https://
+	ch.nicovideo.jp/appareranman
+URL:https://www.acfun.cn/bangumi/aa6001744
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b55ca030-75c3-43cd-89f6-8f01a2085f84
+UID:397cfbd5-d169-432b-952e-c1a3896dabfa
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200723T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -635,9 +625,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:c3add41b-857e-4066-ba7d-eefe01a3c2f9
+UID:2dda2d58-5802-4787-b842-8e9fe7182747
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200730T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -645,9 +635,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4026ee1a-aeee-4aec-b6f6-9040f8c6796e
+UID:c0a7556e-da22-47eb-b4c6-22ffce059a47
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200806T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -655,9 +645,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7a487d27-615a-4d49-bbe7-946f428a7d5f
+UID:074af0bf-97b4-4bd1-a3b8-8599bd749275
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200813T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -665,9 +655,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6210fea4-9773-451e-9ab9-11f3797f5017
+UID:594c6851-19b0-4477-ab8d-8d561560a29c
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200820T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -675,9 +665,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d82d7c3d-a49d-41db-8de0-a54fb7a6f2d2
+UID:db25e3eb-94fb-40b5-91a0-8f3c3da8db2c
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200827T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -685,9 +675,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2dd970c6-0732-471c-8d0c-6f71d351b29e
+UID:ce1c2c1b-cdb4-4992-8f20-91f4050477e9
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200903T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -695,9 +685,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2618b0ec-e99e-4110-b38c-475b103fbbc4
+UID:a33ff042-1b92-4ef3-a522-6955693382df
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200910T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -705,9 +695,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f4430bae-c26b-491f-a497-dc007c77a977
+UID:b29e7236-a3f3-4ae5-b6ef-79ddfd74d26a
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200917T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -715,9 +705,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:79378952-fdd5-43cf-87bf-9a96cfaaa651
+UID:c2cf4764-8e29-4e5e-a67d-336c95cf0e34
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200924T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -725,9 +715,9 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d2bbe573-d98f-49f6-8c03-7fa0a94a3d1a
+UID:fad165c0-68bf-4d0f-8239-3f7b053caaf7
 SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20201001T161000Z
 DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
 	ch.nicovideo.jp/fugoukeiji-bul
@@ -735,20 +725,19 @@ URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:dc19b010-0725-4630-9027-ef60bd7c752d
-SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
-DTSTART:20200709T165800Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
-	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
-	com/detail/m/mzc00200ntj3ii2.html
-URL:https://www.bilibili.com/bangumi/media/md28228386/
+UID:4a90b900-598b-4c3d-8831-ba8640d8826a
+SUMMARY:上季旧番：《富豪刑警 Balance:UNLIMITED》
+DTSTAMP:20200713T100617Z
+DTSTART:20201008T161000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6001747\nNiconico：https://
+	ch.nicovideo.jp/fugoukeiji-bul
+URL:https://www.acfun.cn/bangumi/aa6001747
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:c6cf8568-e340-4ad5-8443-eeb798060644
+UID:62c04d6c-9fa5-449d-9836-1a1270d37073
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200716T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -757,9 +746,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8ccc5add-c046-40a8-8e80-1f3aeebcb2bc
+UID:838661ad-172b-4fe9-961b-dfd1ce299f88
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200723T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -768,9 +757,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:048ea374-d52d-4822-9886-65e6d29d385b
+UID:64194a1f-f404-4be6-9a58-93f6b007d519
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200730T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -779,9 +768,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f638e1ea-3a10-4244-8254-7a6547f726b7
+UID:f187af30-d8b5-40e4-bd41-17c4ab3f896e
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200806T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -790,9 +779,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f0fbba4a-60e9-4006-b24b-f8ca50761995
+UID:92047216-6ebc-4f9d-b8fd-b7758fba9aa7
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200813T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -801,9 +790,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:e40c4374-c162-42c3-af08-7f02fbce3cd1
+UID:4a3e5de6-4ec9-4c4c-a215-50a8e4744e3d
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200820T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -812,9 +801,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:03401087-3816-49a1-a9ad-eb0205b437c1
+UID:0d7daacc-a2e2-4993-a031-e339972b2783
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200827T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -823,9 +812,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f135e18f-b9a9-448a-b781-781ae9e2c435
+UID:819ef4fb-99ce-497f-8143-306a1c19373e
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200903T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -834,9 +823,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:85308f94-70bb-49b7-96eb-59379e3fdc73
+UID:33c7fa14-5615-44f8-8122-44346fb11dad
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200910T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -845,9 +834,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2ae152b4-5b9c-4a8d-9d88-e2af369ec544
+UID:c58ae79e-921c-409f-81ac-26ca75ce7a30
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200917T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -856,9 +845,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:89c60e0e-e5f6-4e99-b8d8-1161e797020d
+UID:79b0762a-c8fd-4a13-9c57-2954d7337f7e
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200924T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -867,9 +856,9 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6d3374d5-b926-4583-8bbe-beb445623043
+UID:2adcf0c9-63ee-4f27-827b-6112b57a5191
 SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20201001T165800Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
 	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
@@ -878,117 +867,108 @@ URL:https://www.bilibili.com/bangumi/media/md28228386/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:36e23770-863f-4414-9b1a-52afed7a24f9
+UID:36bdc214-944a-479b-88d7-c34bd068645f
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
-DTSTART:20200711T150000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
-URL:https://www.bilibili.com/bangumi/media/md28228119/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:a24ab5d4-bdbd-4b43-ae9a-2503daca1b0d
-SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200718T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:30ae4e7d-7a46-42a0-8cad-c0cb076a848b
+UID:8bfe3435-95fe-47a3-a277-fab27d64e2b5
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200725T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9ab56123-1533-47f7-a670-ae62c64571c4
+UID:1e5c1c7d-c06e-4658-a7eb-ebaa6172bf9e
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200801T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:53581dd5-2ab5-4943-bcce-d15eb25f73d5
+UID:45f996ad-d6a5-461f-b095-0e6921afa057
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200808T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7885f86f-e12c-41ba-9671-0bc389f200ff
+UID:177c5143-f2c4-43e1-9655-1ff8dd56c2e4
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200815T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:532974be-cfdc-47ef-aedc-191378de5859
+UID:3e683bd2-252d-496f-9312-88861f661ad8
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200822T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:e0f9ec89-50f3-4d4f-9331-fd0ef60b3357
+UID:5a71c36c-f544-4ee8-8960-0461dc87204d
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200829T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f5dc1d29-35c6-4a86-a25d-1989e059a93c
+UID:c68fac1a-6f13-475a-a244-23c8f9cb33f3
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200905T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bdf832c6-0043-4dbb-bbd2-f558d1074676
+UID:10a2dd9a-f512-4b7b-b738-0cc3f4059e85
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200912T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7fee5612-e5b9-4b98-b5cc-7aa6cdd4bf59
+UID:e4b37f75-64ea-46d8-a76d-b607b697f23b
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200919T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8f9f4a81-c504-45b2-8679-5f80203446f8
+UID:0898f7e3-cadf-4f04-b99e-af9766fadd5f
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20200926T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fe7046c0-1d2a-415a-a52c-fdc5b263e08f
+UID:95eee433-cdb5-4cd6-8352-e8b2eaee1b48
 SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200706T100645Z
+DTSTAMP:20200713T100617Z
 DTSTART:20201003T150000Z
 DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
 URL:https://www.bilibili.com/bangumi/media/md28228119/
