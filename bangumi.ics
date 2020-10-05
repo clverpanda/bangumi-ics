@@ -5,301 +5,231 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:953603f1-d461-4cbf-a22d-6c88e8fc66ca
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201009T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:47bda6aa-c317-4856-8028-03bd92694be1
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201016T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:e4a1fee9-dc48-4bb6-b835-5546686e546a
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201023T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:603c6c35-8102-4e8e-8191-de4b2f1f672d
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201030T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:12c8ee66-6383-4de4-bfea-19823d39aac8
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201106T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:7ff440b0-a934-4401-b215-af5db1a180ad
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201113T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:103ef791-b931-46ce-8552-20cd7af20b63
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201120T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:f0854c12-dda0-4aa3-b3ff-5431424cec7e
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201127T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:cf61bd8f-2ace-4ea7-97d8-25eebd74212b
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201204T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:b58a7d5b-17dc-45a0-a89f-c1b14b27e441
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201211T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:42ad0649-fa53-42e9-8659-f7d116a4d989
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201218T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:121174b6-3efe-483d-8e9a-4ec172c95061
-SUMMARY:上季旧番：《科学的超电磁炮T》
-DTSTAMP:20200929T100229Z
-DTSTART:20201225T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28224095/\nNiconi
-	co：https://ch.nicovideo.jp/toaru-railgun-t
-URL:https://www.bilibili.com/bangumi/media/md28224095/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:8ebe70c7-d4bd-4ebc-bb0b-5a333e18d995
+UID:63fd4a3b-0c80-4786-a17c-2bfe048160a1
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
-DTSTART:20200929T153000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
-URL:https://ch.nicovideo.jp/isekai-quartet2
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:89484a63-aa52-45db-90c8-001616b1b7ec
-SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
-DTSTART:20201006T153000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
-URL:https://ch.nicovideo.jp/isekai-quartet2
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:4bb82aff-306e-43fe-9138-62492c7f13c6
-SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201013T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:e3539b0d-df2d-4f1d-9d6a-0413aa1ada80
+UID:63378d98-29bd-4c72-ae62-8fa8c7e29ee9
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201020T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7a52f5ab-21ce-491b-b738-b6803b5db5ed
+UID:74e515e4-1abe-4bb4-938b-a99050cd3efc
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201027T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:e40e7cf4-c343-4fe1-82f7-3680ee42e16e
+UID:b0e82b22-b20b-4ab7-a771-e228d97c64f4
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201103T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:a3d987f3-aea8-4200-9d4c-93b455a75807
+UID:b2c9d248-8b20-41a5-9aa7-6d47b1329602
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201110T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3eb58c73-c3b8-4230-a38c-8dda1cec99ec
+UID:89395c04-549a-47f6-a0df-765048898827
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201117T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f0906600-81a5-4780-9eae-cafa604e6338
+UID:9bfc09b5-6096-4c49-813b-882bfda50d57
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201124T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bcb15895-85bf-4158-bac8-77181d637f94
+UID:60944f36-6603-441d-b9b9-0e989b8bec32
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201201T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:32c7c53d-f99c-4d76-8e62-dd9f3e73fc1a
+UID:22763dd1-a833-4323-82b5-2207027a06a5
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201208T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f67b272e-1d2b-401c-b860-513c16690274
+UID:d1184906-8a59-42cc-b93d-5b1684022da2
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201215T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7e9a907f-06e5-4bce-a95f-465b089603ae
+UID:da4dea4a-60f6-4088-b477-6bf4a720920b
 SUMMARY:上季旧番：《异世界四重奏2》
-DTSTAMP:20200929T100229Z
+DTSTAMP:20201005T101015Z
 DTSTART:20201222T153000Z
 DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
 URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:026f0025-3425-4d7c-bff8-caadd6681d5b
-SUMMARY:本季新番：《我的青春恋爱物语果然有问题 完》
-DTSTAMP:20200929T100229Z
-DTSTART:20201001T165800Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228386/\n优酷：htt
-	ps://list.youku.com/show/id_zdbda61011e74459286be.html\n腾讯视频：https://v.qq.
-	com/detail/m/mzc00200ntj3ii2.html
-URL:https://www.bilibili.com/bangumi/media/md28228386/
+UID:34984b59-535c-44b2-af31-46c573e91d44
+SUMMARY:上季旧番：《异世界四重奏2》
+DTSTAMP:20201005T101015Z
+DTSTART:20201229T153000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekai-quartet2
+URL:https://ch.nicovideo.jp/isekai-quartet2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:71278ae3-bc14-483d-97d5-3ddf41aac164
-SUMMARY:本季新番：《刀剑神域 Alicization War of Underworld -THE LAST SEASON-》
-DTSTAMP:20200929T100229Z
-DTSTART:20201003T150000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28228119/
-URL:https://www.bilibili.com/bangumi/media/md28228119/
+UID:b3be8285-ceed-49f4-bd64-1936ab3a6e7e
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201016T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7cd14ce7-f9b6-43f7-9b8d-3aeea2e0ba45
-SUMMARY:本季新番：《租借女友》
-DTSTAMP:20200929T100229Z
-DTSTART:20201002T162500Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6002917\nNiconico：https://
-	ch.nicovideo.jp/kanokari
-URL:https://www.acfun.cn/bangumi/aa6002917
+UID:6114e344-9fb3-4215-abb0-bd27df3ef1c4
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201023T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b625d7b1-b84c-46bf-95f5-416f71e35c1a
-SUMMARY:本季新番：《Re：从零开始的异世界生活 第二季》
-DTSTAMP:20200929T100229Z
-DTSTART:20200930T133000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229233/\n优酷：htt
-	ps://list.youku.com/show/id_zbceaf354595b496ca969.html\nNiconico：https://c
-	h.nicovideo.jp/re-zero2-anime\n腾讯视频：https://v.qq.com/detail/m/mzc00200c8k0
-	lz1.html
-URL:https://www.bilibili.com/bangumi/media/md28229233/
+UID:940d60df-b9ee-4bcb-9505-40116c9b2829
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201030T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:54257ee9-9b5c-42c2-933e-4010548dbece
-SUMMARY:本季新番：《彼得·格里尔的贤者时间》
-DTSTAMP:20200929T100229Z
-DTSTART:20201002T163500Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/petergrill-anime
-URL:https://ch.nicovideo.jp/petergrill-anime
+UID:87e37010-accd-49a0-bded-fa07ab15bf25
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201106T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d58f5533-a4f3-4fb0-939d-ec8a3d9b5713
-SUMMARY:本季新番：《赛马娘四格》
-DTSTAMP:20200929T100229Z
-DTSTART:20200929T130000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229237/\nNiconi
-	co：https://ch.nicovideo.jp/umayon
-URL:https://www.bilibili.com/bangumi/media/md28229237/
+UID:93fa5202-54e8-4e37-b8ef-5ab658fe864c
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201113T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:096614be-5d50-4fe5-ba16-7b82a07f2207
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201120T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:8b337ddf-2c25-4dd7-a25b-34134df570b3
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201127T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:4e3115bd-93e0-44a3-ac41-160f9d2755f8
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201204T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:d2da5862-7709-4c62-904e-04933735d9b5
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201211T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:3c3f1930-0515-45fb-a36f-06bc71326b5b
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201218T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:cd849f50-0a94-42c7-a226-057598fae76c
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20201225T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:5737d066-adc5-48c1-b42a-6af0869185c7
+SUMMARY:上季旧番：《炎炎消防队 二之章》
+DTSTAMP:20201005T101015Z
+DTSTART:20210101T165500Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28229236/\nNiconi
+	co：https://ch.nicovideo.jp/fireforce-anime02
+URL:https://www.bilibili.com/bangumi/media/md28229236/
 DURATION:PT24M
 END:VEVENT
 END:VCALENDAR
