@@ -5,748 +5,990 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:1ee74263-2e9b-4671-b423-6f1deb8c6581
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210506T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:0aa05b34-92e2-4f83-924c-dcb0749c53a2
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210512T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cd521b63-8f5d-4e30-a9c0-e64209890c08
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210513T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:ce250a5b-d0c6-4055-b97a-7f2d5e106db5
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210519T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:0a441e71-f0b9-4e27-a3c2-7471acba8b89
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210520T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:c79ea289-f341-4966-8e70-c86872b99dcc
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210526T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:12af6e23-097a-47ae-8069-a43c9df677ab
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210527T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:0f6ca6b3-46b5-4456-9102-6a17c05e3c5b
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210602T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:331a4ff0-bbb8-457f-bc5d-b56d9d519758
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210603T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:7e545bda-183e-42b1-8051-c2e7af5496a2
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210609T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6a912267-9546-4744-a30c-927b5b8e8d1e
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210610T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:6be44002-8176-43fd-9422-2bc9a3325d22
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210616T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8e310a44-c62e-40bc-8df4-5d70d1c3df20
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210617T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:9e4fa1f3-ed5d-4212-8856-7037e27d58ba
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210623T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7b9757b7-af9f-497d-b8ce-2961b320dd1e
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210624T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:825016a1-63bd-4ecc-bb12-8241a5b8c596
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210630T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:26173aa2-246c-42ed-a925-cc5472d104e8
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210701T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:74805d92-4ecd-41c1-9441-4ec4765765bb
+SUMMARY:本季新番：《青梅竹马绝对不会输的恋爱喜剧》
+DTSTAMP:20210506T102800Z
+DTSTART:20210707T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/osamake\n哔哩哔哩：https://www.bili
+	bili.com/bangumi/media/md28233904/
+URL:https://ch.nicovideo.jp/osamake
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bff53ada-ec20-446a-add2-868167d5a30b
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210708T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:9efbb5a3-bd05-4a2e-a39b-3803793f0980
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210506T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8c03df07-8414-4e2c-99dc-2dcbc6d934ae
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210715T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:d83aa142-e3ea-4a2b-95a0-c3a50cf4806a
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210513T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:af512879-97c7-4b42-92ef-5fc6b228fe2d
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210722T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:97525476-5f9b-4a36-9ad6-c0255c14a067
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210520T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6238f346-e03c-4691-96dd-5fdc9d92e848
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210729T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:80be436a-81b2-44f3-a9c0-09a42f65a987
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210527T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bc2e5714-f078-49c4-9a7a-5da1d25dae4f
-SUMMARY:上季旧番：《摇曳露营△ 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210805T140000Z
-DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6004596\nNiconico：https://
-	ch.nicovideo.jp/yurucamp_second
-URL:https://www.acfun.cn/bangumi/aa6004596
+UID:cb2af8bc-cd4d-4a38-aa81-e84325295fbf
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210603T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:22677538-2536-44be-9903-acf0bc4e011a
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210514T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:da65315b-33b4-4d94-94d5-617de42f468d
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210610T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8514a11d-4e46-4bfd-8cd0-0a8f29644b25
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210521T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:00993175-b07f-44db-8a22-6e5bac3284e8
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210617T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:601ce4ad-8a0b-4525-9083-03aeb096babf
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210528T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:93dc0d39-a6ef-453d-a39e-9fe722bcb2ea
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210624T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:1fd2922f-5c97-4eef-9ac0-0e07ded1e828
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210604T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:4608b2a2-dd74-4f84-8c2d-70476e53ffa2
+SUMMARY:本季新番：《佐贺偶像是传奇 复仇》
+DTSTAMP:20210506T102800Z
+DTSTART:20210701T143000Z
+DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28233251/
+URL:https://www.bilibili.com/bangumi/media/md28233251/
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fdc7f700-51b6-47e5-9adf-61a987af4451
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210611T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:1cdaa247-5880-476d-84c8-dbf4740bac15
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210506T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5f39e64c-9b4a-4a1b-ac37-ad44cc922ee3
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210618T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:d6c05931-33f5-4e21-91ae-1210ab9d3e1f
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210513T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:c8c5f4f1-f164-48eb-8560-a0d186decbfd
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210625T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:8894c0f1-5e05-47f4-a628-3f5443d8737d
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210520T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fa31a7dd-3c58-49c2-8182-ef903348fca4
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210702T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:0e36cb53-dd8b-4924-b015-e1b117f0fd93
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210527T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:7667b5c1-aa7d-421e-bfcc-2bbd1268198d
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210709T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:d721a534-9202-4037-9042-86cfb3fe4b23
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210603T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:04bfd201-4b26-4dac-b1c5-03935aea31d7
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210716T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:42991a38-b53c-40ae-a4f3-97f4b595e580
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210610T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:657bef80-5dbf-4f41-a6ef-2679e08d2b0b
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210723T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:9d3ed63b-b3ce-4c0c-b47d-5f5ea1d64fc8
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210617T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f007a11d-49a0-412d-ba05-de0bec6eef45
-SUMMARY:上季旧番：《转生成蜘蛛又怎样！》
-DTSTAMP:20210506T102100Z
-DTSTART:20210730T123000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231809/\nNiconi
-	co：https://ch.nicovideo.jp/kumo-anime
-URL:https://www.bilibili.com/bangumi/media/md28231809/
+UID:6950c4f6-98a2-4488-b011-1eb903982995
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210624T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b1c3397c-fbc5-4ccc-a13d-9b755258e7f1
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:9372baf2-ebfd-4625-87cc-2f1264d339fa
+SUMMARY:本季新番：《异世界魔王与召唤少女的奴隶魔术 OMEGA》
+DTSTAMP:20210506T102800Z
+DTSTART:20210701T162800Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/isekaimaou-omega
+URL:https://ch.nicovideo.jp/isekaimaou-omega
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:572e8200-3156-4914-a4d4-092ec1b18585
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210510T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:9e6c5d8d-6c05-4e70-bc39-7dbfc05a377d
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210517T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8e653a-1312-4182-9c9d-adf12410d8f8
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210524T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:def15295-0b40-4df0-857d-7702fa958baf
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210531T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:65082902-f4ab-4ea6-9f49-d9630f1ff619
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210607T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:8e502f96-df88-4560-af36-825a8c98937c
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210614T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:50fa1dc9-966e-4830-844c-4b9e140be198
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210621T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:7d943e51-ab91-44b4-a243-20ab98e87f0d
+SUMMARY:本季新番：《剃须。然后捡到女高中生》
+DTSTAMP:20210506T102800Z
+DTSTART:20210628T133000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/higehiro-anime
+URL:https://ch.nicovideo.jp/higehiro-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:ef419a93-aeb5-4dda-8c40-6c4f13299384
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210511T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:4336d559-917a-419e-9b85-7c08bd3a7f2e
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210518T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:9ecfc127-8a5d-4c6b-8393-7062e654df5b
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210525T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:c524d922-7893-4194-895c-c1d6c77d8971
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210601T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:f39dc087-2a37-4fe3-87fa-cb5ec14f508d
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210608T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:400142ab-d236-4d46-953f-0fb3b436fd5e
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210615T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee231bb-0704-4522-b099-da1994e050be
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210622T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:94d644ee-a89d-44ab-81dc-80cf1ee7a3c3
+SUMMARY:本季新番：《转生史莱姆日记》
+DTSTAMP:20210506T102800Z
+DTSTART:20210629T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tensura-nikki\n哔哩哔哩：https://ww
+	w.bilibili.com/bangumi/media/md28233903/
+URL:https://ch.nicovideo.jp/tensura-nikki
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:f7edfca3-19e4-4330-8481-db9031a6b983
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210508T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:f0fd351d-b207-4706-9393-c0c050e013e9
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210515T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ab9381-801b-444c-a15d-4cb60b47e7fc
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210522T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:2fc35fd5-02dd-4c4c-98a6-00327702c4f4
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210529T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:9aad98bd-5d74-4149-b3cb-99f639c75e87
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210605T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a800ec-bf5b-4b2c-b236-4132611f4efc
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210612T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:d305340b-6c60-4591-9cf4-d4f60f3b596d
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210619T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a3e70c-6a05-4d31-809b-d51d305ded92
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210626T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:2baee0f0-0851-46ce-8df3-a17e53e06adc
+SUMMARY:本季新番：《打了三百年的史莱姆，不知不觉就练到了满等》
+DTSTAMP:20210506T102800Z
+DTSTART:20210703T120000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/slime300-anime\n哔哩哔哩：https://w
+	ww.bilibili.com/bangumi/media/md28233911/\nAcFun：https://www.acfun.cn/bang
+	umi/aa6005278
+URL:https://ch.nicovideo.jp/slime300-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:c051bc07-83ac-4460-a97a-1072b5f7a49f
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210512T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b32fad-a914-4579-9ed3-4c836ad2cc54
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210519T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:64ec3448-96ba-4fef-b902-b3f590fdbe17
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210526T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:922c5f99-de3d-420a-9afb-f8ef04e1f664
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210602T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:7479eef4-0d65-459c-a23b-417ff5ff4ee5
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210609T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:c09b1c35-cdd9-4376-8af8-911d6baaa26f
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210616T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4ae6ef-45bf-4b55-875e-87e6585e0e35
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210623T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:19bcd056-a1de-4637-82d9-63984cd7fcb1
+SUMMARY:本季新番：《本田小狼与我》
+DTSTAMP:20210506T102800Z
+DTSTART:20210630T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/supercub-anime\nAcFun：https://
+	www.acfun.cn/bangumi/aa6005289
+URL:https://ch.nicovideo.jp/supercub-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:70466834-a544-4ef5-907b-a095126b98cc
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210512T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:b88cd0d6-b1a4-4f93-931d-ebf8f14d282a
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210519T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:b47ed9c9-f40d-4951-af59-e2f4c8e60df4
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210526T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:78f5203b-35ec-4609-a5c5-870c84e90ab6
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210602T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4da0cf-a135-4756-b5ed-0c4e60efca0d
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210609T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:eab6307f-f354-4883-b6b0-59da59011ea0
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210616T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:a27ab01e-68b5-4517-b320-943cae5f3591
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210623T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1a52ba-872d-4edd-9cdd-1ef69f058311
+SUMMARY:本季新番：《如果究极进化的完全沉浸RPG比现实更垃圾的话》
+DTSTAMP:20210506T102800Z
+DTSTART:20210630T133000Z
+DESCRIPTION:优酷：https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+URL:https://list.youku.com/show/id_zacea9ca68d7d439aa7a0.html
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:c305eb5a-f2f8-4106-9c0e-ffa859a14ecf
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210509T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:86e7285e-29d2-4c3d-9de2-3580ad6bdf17
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210516T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:cf121a0c-db41-4ab3-9d0c-568500eb01c1
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210523T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:e2afde70-c532-40d9-972e-b8bc88823def
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210530T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:ab212402-cf43-45e7-abac-ae6cf7be7730
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210606T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:ed435be6-51d2-4372-92d1-36aa3613f8ad
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210613T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:9bccd682-a134-4bda-85ee-a082178f974d
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210620T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:834c4808-ff24-49d1-afe9-c70b7ddb6223
+SUMMARY:本季新番：《派遣战斗员！》
+DTSTAMP:20210506T102800Z
+DTSTART:20210627T120000Z
+DESCRIPTION:AcFun：https://www.acfun.cn/bangumi/aa6005288
+URL:https://www.acfun.cn/bangumi/aa6005288
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:bd5fe308-01b0-4fb4-b38b-047367092dcb
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
+DTSTART:20210508T153000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
+DURATION:PT24M
+END:VEVENT
+BEGIN:VEVENT
+UID:1c416f7c-ea6f-4527-9e49-4f1161fe6bbc
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210515T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:3cacc826-c599-418e-9c11-02bd99e297f9
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:9bb4417b-e366-46e9-9964-ad3ce332247e
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210522T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:01759ad9-739c-47b7-bbc5-c3c8bba4a950
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:f2eea19c-3161-4bed-a685-9cd280efa1f1
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210529T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5cfbd78b-4f18-4ed2-ba4c-488e399f55d9
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:f68f7549-83c3-4e93-ae99-1b2c852f6cf0
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210605T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:e7390d95-cdeb-4aba-ae4c-aa5d2cc59c0c
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:273d6f4f-86a2-40b0-ba5b-da68ebb860fa
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210612T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:4ffe1bea-22db-4d7e-9d22-67abe8348ad7
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:7c5d8c8d-b664-4385-956a-887d3c4e7330
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210619T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:5b316a50-8015-4169-8611-b0f6acd48e56
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:a43d61a5-706f-4479-be92-56e902eedadf
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210626T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ba01887a-c6b8-449a-94c9-4e794a371fa7
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
+UID:4b06f2fa-4e76-4e7c-8776-693f9ac32883
+SUMMARY:本季新番：《影宅》
+DTSTAMP:20210506T102800Z
 DTSTART:20210703T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/shadowshouse-anime\n哔哩哔哩：https
+	://www.bilibili.com/bangumi/media/md28233941/
+URL:https://ch.nicovideo.jp/shadowshouse-anime
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:6165d95d-fc4d-4d52-8cc0-34583761883c
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
-DTSTART:20210710T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+UID:4ca9a156-bbd0-4172-bd6d-601692182706
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210508T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cfbb0954-923b-4fa4-8ab5-600147d6057f
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
-DTSTART:20210717T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+UID:11feda5a-9917-4652-9b03-dd3488c75237
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210515T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:cfd2a7a3-cfc5-4cee-ad2a-4bd2a8e0c824
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
-DTSTART:20210724T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+UID:4b7602a1-a756-4d90-9500-b4bcb1591c40
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210522T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:36f08a59-2498-493f-a699-bc6575060fd9
-SUMMARY:上季旧番：《堀与宫村》
-DTSTAMP:20210506T102100Z
-DTSTART:20210731T153000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231840/\nNiconi
-	co：https://ch.nicovideo.jp/horimiya-anime
-URL:https://www.bilibili.com/bangumi/media/md28231840/
+UID:4df6e5ee-f659-4fba-b8f0-c186507dbbd8
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210529T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:8e0a746e-b256-4ab1-af17-614c9bc1cb48
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210506T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:393b88bf-df74-49c5-a5e9-1531f8aa7d8c
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210605T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:ae3931bc-1abe-4bdf-97f1-21e110f046c1
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210513T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:ad35bf73-8447-40c5-922a-2112915889af
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210612T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:e7e1a9b7-c5eb-43ca-80c4-614a570f0a01
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210520T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:995c3df1-6531-483a-9dc0-aff647c67dac
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210619T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:2cc48202-e159-46f0-9f60-11120c7a9271
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210527T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:0dc07967-2649-43da-83d3-c6a5ae2ce069
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210626T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9c9f103a-e223-44e7-a105-c15630fa52b7
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210603T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:d606aee6-799c-49df-928a-a35ff1918c86
+SUMMARY:本季新番：《86 -不存在的战区-》
+DTSTAMP:20210506T102800Z
+DTSTART:20210703T150000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/tv_anime-86\n哔哩哔哩：https://www.
+	bilibili.com/bangumi/media/md28233940/
+URL:https://ch.nicovideo.jp/tv_anime-86
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:bfbced24-543f-4f21-a9c4-16cd5210740d
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210610T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:307cb75e-d285-49aa-ac14-ee4b27e1df66
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210509T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:9f08fcde-e691-4141-b717-cf5f7991bee7
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210617T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:36070226-cfe0-432a-84aa-736330a7a1e8
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210516T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:d39b985f-b8ba-4555-be62-863ad422a269
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210624T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:af365679-4e18-45eb-a523-fe8047645231
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210523T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:0696d213-ca92-48c3-b8bb-782b36c1ef34
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210701T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:a7542a16-55ae-4ff0-9d63-463e41fffc81
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210530T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:a720f803-ace6-48fb-a0a6-fbf05a7e10e5
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210708T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:9b8339b2-8c8a-4973-b326-9afc5cf9d471
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210606T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:b7d488ea-3dc2-49a9-949c-498ef9beee17
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210715T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:ae71f493-2ad4-4388-93de-2dea41a9376e
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210613T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:f4e22c1c-53e0-4060-b0f5-e85c8d60cd91
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210722T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
+UID:1c2ec335-c912-4d12-b00e-6f7be3a30262
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210620T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 BEGIN:VEVENT
-UID:fa71a3b9-98d3-4e47-a0ee-b55af3aa8f29
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210729T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:ccb5cbf6-d75f-4d62-b33c-a8a17e864b3d
-SUMMARY:上季旧番：《约定的梦幻岛 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210805T171000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231852/\nNiconi
-	co：https://ch.nicovideo.jp/neverland-anime2
-URL:https://www.bilibili.com/bangumi/media/md28231852/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:a1940250-2ece-49ea-95ef-62dba7836fa1
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210514T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:c7276735-709f-4d9c-a842-97bed74292a9
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210521T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:33ff1719-874c-4db6-a566-a17894664252
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210528T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:76d717db-4241-457a-a03f-b0d5c38d5f2c
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210604T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:6b6cc4f5-e53c-4f00-b773-9ac88c78de86
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210611T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:ca5e7453-3b36-4d98-b22f-681597142e43
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210618T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:e100536c-2875-472d-bfae-57dff24f6fd2
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210625T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:067089a9-50c9-430e-91df-9fe1360d3e30
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210702T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:e610cf25-cdb1-4dd4-a048-b61b4d54fdf8
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210709T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:bbba2910-b7b2-4715-8e0c-cac62f8a11ce
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210716T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:245f5730-9a8a-46bc-bda5-935d278cf7b7
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210723T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:abdfb879-1d7f-416e-9363-9ae529595336
-SUMMARY:上季旧番：《大人的防具店 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210730T160000Z
-DESCRIPTION:Niconico：https://ch.nicovideo.jp/otonabougu_l
-URL:https://ch.nicovideo.jp/otonabougu_l
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:439f0850-bcc8-4f6d-954f-eb2a410360ee
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210511T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:a7246cd2-3a65-4df2-918c-b1741259f98b
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210518T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:1a1500c0-d631-40ac-b1c7-562d5da12be0
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210525T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:a49b0249-851c-4dbc-b0f1-c1d6b85de35f
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210601T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:1387a5f5-bf80-4801-afd4-7c329547163a
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210608T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:2a26dff4-9106-43ce-9caf-13379df65ab7
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210615T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:20031670-ab80-46eb-9838-6f7adb373fd8
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210622T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:7ff3b370-d035-4fe6-a0a8-aa04831b6c65
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210629T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:3f9e1135-885d-423a-8d5a-177e297b5267
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210706T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:0ef23771-c4ea-4eb3-aaa4-7bfef895e3b5
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210713T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:c6a6808f-d334-4971-aaa7-bcfc64f8adf2
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210720T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:cc1d4bf6-7819-4a5d-a207-828330d74768
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210727T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
-DURATION:PT24M
-END:VEVENT
-BEGIN:VEVENT
-UID:dca4fd76-f371-4e3e-9546-9414bd918ea5
-SUMMARY:上季旧番：《动物狂想曲 第二季》
-DTSTAMP:20210506T102100Z
-DTSTART:20210803T030000Z
-DESCRIPTION:哔哩哔哩：https://www.bilibili.com/bangumi/media/md28231773/
-URL:https://www.bilibili.com/bangumi/media/md28231773/
+UID:26070f1c-9a1d-4023-bb62-c127b6dc7eb8
+SUMMARY:本季新番：《NOMAD MEGALO BOX 2》
+DTSTAMP:20210506T102800Z
+DTSTART:20210627T140000Z
+DESCRIPTION:Niconico：https://ch.nicovideo.jp/megalobox2\n哔哩哔哩：https://www.b
+	ilibili.com/bangumi/media/md28233916/
+URL:https://ch.nicovideo.jp/megalobox2
 DURATION:PT24M
 END:VEVENT
 END:VCALENDAR
